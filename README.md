@@ -12,7 +12,7 @@ NodeJS Tools For Visual Studio http://nodejstools.codeplex.com/
 
 TypeScript http://www.typescriptlang.org/
 
-TypeScript Definitions http://definitelytyped.org/tsd/https://github.com/borisyankov/DefinitelyTyped
+TypeScript Definitions http://definitelytyped.org/tsd/
 
 NodeJS on Azure http://azure.microsoft.com/en-us/develop/nodejs/
 
